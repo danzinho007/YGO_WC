@@ -1,0 +1,35 @@
+Modelo:
+Nome = 
+DP = 
+ModosDeJogo = 
+DuelistasAbas = 
+FantasmasAbas = 
+Receitas = 
+
+--- 2008BR.nds = SemSave
+Nome = Loke
+DP = 1018
+ModosDeJogo = 5
+DuelistasAbas = 13 páginas
+FantasmasAbas = 4 páginas
+Receitas = 1
+
+2174 - Yu-Gi-Oh! - World Championship 2008 (Europe) (En,Ja,Fr,De,Es,It) = SemSave
+Nome = Daniel
+DP = 1500
+ModosDeJogo = 1
+DuelistasAbas = 1 
+FantasmasAbas =  4
+Receitas = 0
+
+YGO WC 2008 (Europe) (En,Ja,Fr,De,Es,It) = SemSave
+
+Yu-Gi-Oh! - World Championship 2008 (US) = SemSave
+Nome = Loke
+DP = 500
+ModosDeJogo = 5 
+DuelistasAbas = 13 
+FantasmasAbas = 4
+Receitas = 1
+
+Yu-Gi-Oh! Duel Monsters - World Championship 2008 (JP) = SemSave

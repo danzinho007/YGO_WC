@@ -1,0 +1,403 @@
+Yu-Gi-Oh World Championship 2007
+
+Cartas:
+
+HandTraps:
+Mag-ShareThePain = Shadow
+Mag-ShieldCrash = Thirst
+Arm-BottomlessTrapHole = Toon
+ArmCtn-CallOfTheHaunted = Summoning
+Arm-DrainingShield = Thirst
+Arm-DustTornado = Summoning
+Arm-EnchantedJaveling = Summoning
+ArmCtn-FairyBox = Ultimate
+ArmResp-MagicJammer = Established
+Arm-Michizure = Scarlet
+Arm-MirrorForce = Shadow
+ArmCtn-MirrorWall = Summoning
+ArmResp-NegateAttack = Powerful
+Arm-ReigekiBreak = Machines
+Arm-SakuretsuArmor = Reboot
+ArmResp-SevenToolsOfTheBandit = Established
+Arm-TrapHole = Established
+Arm-Waboku = Shadow
+ArmCtn-WallOfRevealingLight = Thirst
+Arm-WidespreadRuin = Established
+Arm-WindstormOfEtaqua = Summoning
+
+Decks e as cartas:
+
+Archfiend:
+MagCampo-MausoleumOfTheEmperor = Messenger
+MagCampo-Pandemonium = Union
+
+AtaqueTotal:
+4-Efe-GiantOrc 2200/0
+MagCtn-FinalAttackOrders = Union
+
+Batteryman:
+Mag-BatteryCharger = Messenger
+
+Beast:
+MagRpd-TheBigMarchOfAnimals = Sword
+
+Blue-Eyes:
+12-Fus-BlueEyesUltimateDragon 4500/3800
+
+DanoDeEfeito:
+Mag-FinalFlame = Established
+MagRestructerRevolution = Established
+
+Defesa:
+4-Efe-StoneStatueOfTheAztecs 300/2000 = Eternal
+
+Dark:
+3-Efe-TheDarkHexSealedFusion 1000/1600 = Union
+
+DarkMagician:
+MagRpd-DedicationThroughtLightAndDarkness = Eternal
+
+ElementalHero:
+7-ElementalHeroNos 2500/2000 = ?
+8-FusEfe-ElementalHeroShiningFlareWingman 2500/1200 = ?
+6-FusEfe-ElementalHeroThunderGiant 2400/1500 = Requirements
+6-FusEfe-ElementalHeroFlameWingman 2100/1200 = Requirements
+6-FusEfe-ElementalHeroRampartBlaster 2000/2500 = Requirements
+4-ElementalHeroSparkman 1600/1400 = Requirements
+4-Efe-ElementalHeroOcean 1500/1200 = ?
+3-ElementalHeroBurstinatrix 1200/800 = Requirements
+3-ElementalHeroAvian 1000/1000 = Requirements
+4-Efe-BeastkingOfTheSwamps 1000/1100 (MaterialFusão) = Scarlet
+4-ElementalHeroClayman 800/2000 = Requirements
+3-Efe-Wroughtweiler 800/1200 (Reviver) = ?
+3-Efe-KingOfTheSwamp 500/110 (MaterialFusão) = Eternal
+MagRpd-DeFusion = Ultimate
+Mag-FusionSage = Established
+Mag-Polymerization = Established
+Mag-ReinforcementOfTheArmy (Buscador) = Requirements
+MagCampo-Skyscraper = Requirements
+MagCampo-Skyscraper2 = ?
+Mag-Terraforming = Machines
+Mag-TheWarriorReturningAlive (Reviver) = Confusion
+Arm-HeroSignal = Requirements
+
+Fada:
+4-DunamesDarkWitch 1800/1050 = Requirements
+
+Fiend:
+4-WhiptailCrow 1650/1600 = Confusion
+
+Final:
+MagCtn-SpiritMessageL
+MagCtn-SpiritMessageN
+
+Fogo:
+MagCampo-MoltenDestruction = Summoning
+
+GuardiãoDoPortão:
+11-Efe-GateGuardian 3750/3400 = Summoning
+
+Insect:
+2-BasicInsect 500/700 = Shadow
+2-Efe-LarvaeMoth 500/400 = Powerful
+
+Koala:
+9-Fus-MasterOfOz 4200/3700
+7-BigKoala 2700/2000 = Sword
+
+Light:
+MagCampo-LuminousSpark = Ultimate
+
+Ojama:
+2-OjamaBlack 0/1000
+2-OjamaGreen 0/1000
+2-OjamaYellow 0/1000
+
+Normal:
+MagCtn-HeartOfTheUnderdog = Sword
+
+Reptile:
+4-WormDrake 1400/1500 = Thirst
+
+Ritual_MaskedBeast:
+MagRit-CurseOfTheMaskedBeast = Thirst
+
+Thunder:
+MagEqp-ElectroWhip = Poweful
+
+Toon:
+4-Efe-ToonCannonSoldier 1400/1300 = Gravekeepers
+4-Efe-ToonMermaid 1400/1500 = Toon
+Mag-ToonTableOfContents = Gravekeepers
+MagCtn-ToonWorld = Toon
+
+Warrior:
+5-Efe-SwampBattleguard 1800/1500 = Legend
+5-Efe-LavaBattleGuard 1550/1800 = Requirements
+3-Efe-MatazaTheZapper 1300/800 = Sword
+4-Efe-DDWarrior 1200/1000 = Scarlet
+MagEqp-LegendarySword = Legend
+MagCtn-TheAForces = Confusion
+
+Water:
+MagCampo-ALegendaryOcean = Toon
+Mag-Salvage (Reviver) = Messenger
+MagCampo-Umiiruka = Scarlet
+
+Wind:
+MagCampo-RisingAirCurrent = Summoning
+
+Zombie:
+MagCtn-CallOfTheMummy = War
+
+-------------------------
+Meu deck:
+8-Efe-SilentMagicianLV8 3500/1000 (Removida)
+7-ElementalHeroNeos 2500/2000
+6-JudgeMan 2200/1500 (Removida)
+4-DarkBlade 1800/1500 (Removido)
+4-AxeRaider 1700/1150 (Removido)
+4-ElementalHeroSparkman 1600/1400
+4-RoboticKnight 1600/1800 (Removido)
+4-ShiningAbyss 1600/1800 (Removido)
+4-Efe-ElementalHeroOcean 1500/1200 (Removida)
+4-Efe-RouletteBarrel 1000/2000 (Removido)
+4-Efe-SilentMagicianLV4 1000/1000 (Removida)
+3-Efe-DestinyHeroDoomLord 600/800 (Removida)
+3-Efe-CardTrooper 400/400 (Removida)
+Mag-FusionSage(Removido)
+Mag-HHeatedHeart (Removida)
+Arm-HeroRing (Removida)
+ArmCtn-Birthright (Removida)
+
+Jogos = 2M/2F/0
+
+Deck :
+
+--DarkRedEnchanter (NothingToDo - DestruirMão)
+
+5-Efe-Helpoemer 2000/1400
+4-Efe-PantherWarrior 2000/1600
+4-Efe-ExarionUniverse 1800/1900
+4-Efe-WingedRhino 1800/500
+4-Efe-KingTigerWanghu 1700/1000
+4-Efe-PitchBlackWarwolf 1600/600
+4-Efe-DonZaloog 1400/1600
+3-Efe-WhiteMagicalHat 1000/700
+2-Efe-ACatOfIIIOmen 500/300
+
+Mag-GracefulCharity
+MagEqp-PrematureBurial
+
+Arm-DustTornado
+Arm-SakuretsuArmor
+Arm-TrapDustshoot (x2?) 
+
+--------------------------------
+--DesWombat (AnimalPrey-Ganhar vida)
+
+Fusão-MasterOfOz (BigKoala + DesKangaroo) 4200/3700
+
+7-BigKoala 2700/2000 (x2?)
+
+3-Efe-DesWombat 1600/300 (x?)
+4-AlligatorsSword 1500/1200 (x?)
+4-Efe-GiantRat 1400/1450 (x2?)
+4-Efe-DesKangaroo 1500/1700 (x2?)
+3-SilverFang 1200/800 (x1?)
+3-Efe-DesKoala 1100/1800 (x2?)
+3-Efe-TheEarthHexSealedFusion 1000/1600 (x2?)
+2-Efe-NimbleMomonga 1000/100 (x2?)
+2-Efe-CyberStein 700/500 (x1?)
+
+Mag-FoolishBurial
+Mag-GracefulCharity
+Mag-Megamorph
+Mag-MonsterReincarnation
+Mag-Polymerization
+Mag-SealedGoldCoffer
+Mag-WildNaturesRelease = Dobra o Ataque e destrói na FaseFinal
+MagCtn-FutureFusion
+MagEqp-PrematureBurial
+
+ArmCtn-CallOfTheHaunted
+ArmCtn-SolemnWishes
+ArmResp-SolemnJudgment
+
+------------------------------------
+--EriaTheWaterCharmer ( FromTheDepths - 
+
+BuscadorCemitério = 2 (Mag-Salvage)
+DestroiMag/Arm = 2 (Arm-DustTornado x2)
+DestroiMonstro = 1 (Mag-Fissure)
+InvocarEspecial = 2
+RemoveDoJogoPosiçãoDefesa = 1
+Reviver = 1
+VoltaMonstroPraMão 1ou2 = 1 (2-Efe-PenguinSoldier)
+
+6-Frostosaurus 2600/1700 
+4-Efe-Granadora 1900/700
+4-MadLobster 1700/1000
+4-Efe-FamiliarPossessedEria 1850/1500
+3-MadLobster 1700/1000 (x2?)
+4-Efe-MotherGrizzly 1400/1000
+4-Efe-BarrierStatueOfTheTorrent 1000/1000 (x2?)
+4-Efe-NightmarePenguin 900/1800
+4-HumanoidSlime 800/2000
+2-Efe-PenguinSoldier 750/500
+4-Efe-Submarineroid 800/1800
+3-Efe-EriaTheWaterCharmer 500/1500 (x3)
+1-Efe-TreebornFrog 100/100
+
+Mag-BigWaveSmallWave
+Mag-Fissure
+Mag-GracefulCharity
+Mag-Salvage (x2?)
+MagCampo-Umiruka 
+
+Arm-DarkMirrorForce
+Arm-DustTornado (x2)
+Arm-RaigekiBreak
+Arm-SpiritualWaterArtAoi
+ArmCtn-CallOfTheHaunted
+ArmCtn-DNATransplant (x2?)
+
+---------------------------------------
+--FoxFire (Fogo)
+
+6-FlameCerebrus 2100/1800
+
+4-Efe-Inferno 1100/1900 (x2?)
+4-Efe-BarrierStatueOfTheInferno 1000/1000 
+3-Efe-UltimateBaseballKid 500/1000 (x2)
+2-Efe-JigenBakudan 200/1000
+
+Mag-NightmaresSteelcage
+MagCampo-MoltenDestruction (x2?)
+MagCtn-DarkRoomOfNightmare
+
+Arm-DustTornado
+
+--------------------------------------
+--SniperHunter (LasVegas - Sorte)
+
+DestroiAtacanteSorte = 1 (4-Efe-SasukeSamurei#4)
+DestroiMag/ArmSorte = 2 (4-Efe-SnipeHunter)
+DestroiMonstroSorte = 4 (4-Efe-SnipeHunter x2 e 2-Efe-TimeWizard x2)
+Reviver = 1 (MagEqp-PrematureBurial)
+
+7-SlotMachine 2000/2300 (x2)
+4-Efe-JiraiGumo 2200/100
+4-Efe-SnipeHunter 1500/600 (x2)
+4-Efe-SasukeSamurai#4 1200/1200
+4-Efe-RouletteBarrel 1000/2000 (x2)
+3-Efe-GoddessOfWhim 950/700 (x2)
+2-Efe-TimeWizard 500/400 (x2)
+2-OjamaBlack 0/1000 (x2)
+2-OjamaGreen 0/1000 (x2)
+2-OjamaYellow 0/1000 (x2)
+
+Mag-GracefulCharity
+MagCtn-SecondCoinToss
+MagCtn-DangerousMachineType6 (x2)
+MagEqp-PrematureBurial
+MagRpd-GracefulDice
+MagRpd-MysticalSpaceTyphoon
+
+Arm-DiceReRoll
+Arm-Gamble
+Arm-ThePathsOfDestiny
+ArmCtn-CallOfTheHaunted
+ArmCtn-FairyBox
+
+-----------------------------
+Survival 40 cards:
+
+--------------------------------------------
+---WingedKuriboh (ElementalHero - 47 turnos)
+
+4-ElementalHeroSparkman 1600/1400
+4-Efe-ElementalHeroWildheart 1500/1600
+4-ElementalHeroBurstinatrix 1200/800 (x2)
+4-Efe-BeastkingOfTheSwamps 1000/1100
+4-ElementalHeroAvian 1000/1000 (x3)
+4-Efe-ElementalHeroBubbleman 800/1200
+4-ElementalHeroClayman 800/2000
+1-Efe-WingedKuriboh 300/200 (x2?)
+
+MagCampo-Skyscraper (x1?)
+
+Arm-DustTornado (x1?)
+
+------------------------
+Exemplo:
+Modos de jogo = 
+Páginas de Monstros = 
+Páginas de Fantasmas = 
+Decks= 
+
+-WC2007_JP.nds = 3BC97F19 (OK)
+Modos de jogo = 1
+Páginas de Monstros = 1
+Páginas de Fantasmas = 0
+Decks= 0
+
+0940 - Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja).nds = EB7A2BAF (OK)
+Nome = Floppi 
+Modos de jogo = 3
+Páginas de Monstros = 6
+Páginas de Fantasmas = 9
+Decks= 120
+
+-Yu-Gi-Oh! - World Championship 2007 (US).nds                 = EB7A2BAF (OK)
+Modos de jogo = 1
+Páginas de Monstros = 1 
+Páginas de Fantasmas = 0
+Decks= 0
+
+-YuGiOh WC 2007 (USA) (En,Ja).nds                             = EB7A2BAF (OK)
+Modos de jogo = 1
+Páginas de Monstros = 1
+Páginas de Fantasmas = 9
+Decks= 10
+
+Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja)             = EB7A2BAF (OK)
+Nome = Daniel
+Modos de jogo = 1
+Páginas de Monstros = 1
+Páginas de Fantasmas = 4
+Decks= 0
+
+1056 - Yu-Gi-Oh! - World Championship 2007 (Europe) (En,Ja,Fr,De,Es,It).nds = 4B65B756
+Modos de jogo = 1
+Páginas de Monstros = 1 
+Páginas de Fantasmas = 0
+Decks= 0
+
+-Yu-Gi-Oh! World Championship 2007.nds                                       = 4B65B756 (OK)
+Nome = Floppi
+Modos de jogo = 3
+Páginas de Monstros = 6
+Páginas de Fantasmas = 9
+Decks= 120
+
+-2007BR.nds                           = D9E6A721 (OK)
+Nome = Hyperion
+Modos de jogo = 3 
+Páginas de Monstros = 6 
+Páginas de Fantasmas = 7
+Decks= 120
+
+-2007BR Original.nds                  = D9E6A721 (OK)
+Nome = Daniel
+DP = 999.999.999
+Modos de jogo = 1
+Páginas de Monstros = 2 
+Páginas de Fantasmas = 0
+Decks= 20 + ou - 
+
+Duelos CPU vs CPU:
+
+DDLadyGuerreira vs Takeshi = Takeshi
+1-Kuriboh vs Takeshi = Takeshi
+3-UltimateTyranno vs Takeshi = 
