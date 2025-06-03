@@ -1,0 +1,209 @@
+-------------------
+Yu-Gi-Oh 2011 Revival Patch
+
+
+------------------
+Bronson
+
+4-Efe-CrusaderOfEndymion 1900/1200
+4-Efe-ElementalHeroNeosAlius 1900/1300
+4-Efe-BreakerTheMagicalWarrior 1600/1000
+
+MagRpd-GeminiSpark
+
+------------------
+CherryInmato (TomatoAlliance)
+
+InvocaçãoEspecial = 2 (LonefireBlossom)
+NegarInvocação de Monstro/Mag/Arm = 1 ()
+
+4-Efe-BotanicalLion 1600/200
+3-Efe-LonefireBlossom 500/1400 x2
+3-Efe-Dandylion 300/300
+
+Mag-FoolishBurial
+Mag-PotOfGreed
+MagEqp-MarkOfTheRose
+
+Arm-MirrorForce
+ArmResp-SolemnJudgment
+ArmResp-SolemnWarning
+
+-----------------------
+Clint
+
+4-Efe-ShiningAngel 1400/800
+MagCampo-LuminousSpark 
+
+-----------------------
+Crow Hogan
+
+4-Efe-BlackwingShura 1800/1200
+3-Efe-BlackwingKalut 1400/1000
+
+----------------------
+Gordon
+
+Mag-MorayOfGreed x2
+Arm-BottomlessTrapHole
+
+-------------------
+Hyponocorn (HipHypnocorn)
+
+4-Efe-KingTigerWanghu 1700/1000
+
+MagRpd-MysticalSpaceTyphoon
+
+---------------------------
+Iranami (IranamisTemptation)
+MagCampo-MausoleumOfTheEmperor
+
+8-Efe-HinoKaguTsuchi 2800/2900 x2
+
+6-Efe-DarkDustSpirit 2200/1800 x2
+
+4-Efe-Yaksha 1900/1500
+4-Efe-Izanami 1100/1800 x2
+3-Efe-InabaWhiteRabbit 700/500 x3
+1-Efe-BattleFader 0/0
+
+Mag-CreatureSwap
+Mag-SwordsOfRevealingLight
+MagCtn-TheDarkDoor
+MagRpd-BookOfMoon
+MagRpd-MysticalSpaceTyphoon
+
+Arm-RobbinGoblin
+Arm-ScrapIronScarecrow
+
+----------------------
+Hayakama 
+
+6-Efe-ThestalosTheFirestormMonarch 2400/1000
+4-Efe-MotherGrizzly 1400/1000
+
+-------------------
+Jack
+
+3-Efe-Trigon 500/1700
+Arm-BottomlessTrapHole
+
+------------------
+Kalin
+
+6-Efe-SkullArchfiendOfLightning 2500/1200
+Mag-AllureOfDarkness
+
+------------
+MachinaFortress
+
+4-Efe-GreenGadget 1400/600
+MagRpd-MysticalSpaceTyphoon
+
+----------------------
+Masaki
+
+4-GenWarpedWarwolf 2000/100
+4-LusterDragon 1900/1600
+
+--------------------------
+Minegishi
+
+6-Efe- Monarch 2400
+6-Efe-ChaosSorcerer 2300/2000
+
+5-Efe-CyberDragon 2100/1600
+4-Efe-KycooTheGhostDestroyer 1800/700 x2
+3-Efe-Sangan 1000/600
+
+MagRpd-MysticalSpaceTyphoon x2
+
+Arm-DimensionalPrison
+
+---------------------------------
+Moja (DingyDaredevil):
+
+7-SinEff-BlackRoseDragon 2400/1800
+
+4-Efe-BeastStriker 1850/400
+3-Efe-XSaberAirbellum 1600/200 x2
+4-Efe-GiantRat 1400/1450 x2
+2-Efe-RykoLightsworm 200/100 x2
+
+Mag-BrainControl
+Mag-HeavyStorm
+MagRpd-BookOfMoon x2
+MapRpd-MysticalSpaceTyphoon
+
+Arm-MirrorForce
+Arm-TorrentialTribute
+ArmResp-SolemnWarning x2
+
+-----------------------
+NaturiaCherries (OrganicCherries)
+
+4-Efe-BotanicalLion 1600/2000 x2
+3-Efe-LonefireBlossom 500/1400
+
+----------------------------------------
+Nico:
+
+5-SynEff-MagicalAndroid 2400/1700
+3-Efe-BotanicalGirl 1300/1100
+2-Efe-CherryInmato 700/400
+
+MagCtn-MiracleFertilizer
+
+--------------------------
+Reimi:
+
+2-Efe-MorphingJar 700
+Arm-MirrorForce
+
+-----------------
+Wattmole:
+
+DiminuirAtaque com MagiasContinuas
+
+4-Efe-ThunderKing_RaiOH 1900/800
+4-Efe-ShiningAngel 1400/800
+4-Efe-Wattgiraffe 1200/100 
+1-Efe-Honest 1100/1900 x3
+3-Efe-Wattwoodpecker 1000/100 x2
+2-Efe-Wattdragonfly 900/100 x3
+3-Efe-Wattsquirrel x2
+
+Mag-PotOfDuality x2
+Mag-PotOfGreed
+MagCtn-BurdenOfTheMighty x3
+
+Arm-GozenMatch
+ArmResp-SolemnWarning
+
+-------------------------------
+West:
+
+3-Efe-QuickSpanKnight 1000/800
+1-Efe-DarkseaRescue 0/0 
+1-Efe-TurboBooster 0/0 x2
+Arm-RaigekiBreak
+
+--------------
+Yam (ChampionsDeck - Dragunity):
+Campo: DragonRavine
+
+4-Efe-DragunityDux 1500/1000 x3 (OK)
+3-Efe-DragunityLegionnaire 1200/800 x3
+2-Efe-DragunityAkiys 1000/800 x3
+2-Efe-DragunityPhalanx 500/1100 x3 (OK)
+
+Mag-MonsterReborn
+
+--------------------
+Yusei
+
+2-Efe-QuillboltHedgehog 800/800
+3-Efe-LevelWarrior 300/600
+
+----------------
+MeuDeck:

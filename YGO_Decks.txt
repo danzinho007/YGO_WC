@@ -1,0 +1,261 @@
+-----------------------------
+Cartas que ajudam:
+
+3-Efe-KingOfTheSwamp 500/1100 = Fusão
+Mag-ShareThePain = Shadow
+Mag-ShieldCrash = Thirst
+Arm-BottomlessTrapHole = Toon
+ArmCtn-CallOfTheHaunted = Summoning
+Arm-DrainingShield = Thirst
+Arm-DustTornado = Summoning
+Arm-EnchantedJaveling = Summoning
+ArmCtn-FairyBox = Ultimate
+ArmResp-MagicJammer = Established
+Arm-Michizure = Scarlet
+Arm-MirrorForce = Shadow
+ArmCtn-MirrorWall = Summoning
+ArmResp-NegateAttack = Powerful
+Arm-ReigekiBreak = Machines
+Arm-SakuretsuArmor = Reboot
+ArmResp-SevenToolsOfTheBandit = Established
+Arm-TrapHole = Established
+Arm-Waboku = Shadow
+ArmCtn-WallOfRevealingLight = Thirst
+Arm-WidespreadRuin = Established
+Arm-WindstormOfEtaqua = Summoning
+
+Decks e as cartas:
+
+Alien:
+1-Efe-AlienAmmonite 500/200
+
+Archfiend:
+MagCampo-MausoleumOfTheEmperor = Messenger
+MagCampo-Pandemonium = Union
+
+AtaqueTotal:
+4-Efe-GiantOrc 2200/0
+MagCtn-FinalAttackOrders = Union
+
+Batteryman:
+1-Efe-BatterymanD 0/1900
+Mag-BatteryCharger = Messenger
+
+Beast:
+MagRpd-TheBigMarchOfAnimals = Sword
+
+BeastWarrior:
+10-FusEfe-GaiaDrakeTheUniversal 3500/2800
+9-SynEffe-XXSaberGottoms 3100/2600
+
+------------------------------------
+Blackwing:
+6-Efe-Blackwing_ElphinTheRaven 2200/1200 !
+5-Efe-Blackwing_SiroccoTheDawn 2000/900 !
+3-Efe-Blackwing_KalutTheMoonShadow 1400/1000 !
+2-Efe-Blackwing_BlizzardTheFarNorth 1300/0
+3-Efe-Blackwing_GaleTheWhirlwind 1300/400
+4-Efe-Blackwing_KochiTheDaybreak 700/1500 (Tuner)
+1-Efe-BlackwingJetstream 100/800
+MagCtn-BlackWhirlwing
+
+Combo:
+Qlq Blackwing = Elphin
+Blizzard + Gale 
+
+--------------------------------------------
+Blue-Eyes:
+12-Fus-BlueEyesUltimateDragon 4500/3800
+
+DanoDeEfeito:
+Mag-FinalFlame = Established
+MagRestructerRevolution = Established
+
+Defesa:
+4-Efe-StoneStatueOfTheAztecs 300/2000 = Eternal
+
+Dark:
+3-Efe-TheDarkHexSealedFusion 1000/1600 = Union
+
+DarkMagician:
+MagRpd-DedicationThroughtLightAndDarkness = Eternal
+
+DesFrog:
+
+4-Efe-AquaSpirit 1600/1200
+4-Efe-MotherGrizzly 1400/1000
+3-Efe-CyberJar 900/900
+2-Efe-MorphingJar 700/600
+1-Efe-TreebornFrog 100/100
+Mag-CardDestruction
+Mag-DarkHole
+Mag-DesCroaking
+Mag-DifferentDimensionCapsule
+Mag-Polymerization
+Mag-PotOfGreed
+Mag-Salvage
+Mag-Ctn-FutureFusion
+MagEqp-PrematureBurial
+MagRap-DesFusion
+Arm-RaigekiBreak
+Arm-RecklessGreed
+ArmCtn-CallOfTheHaunted
+
+ElementalHero:
+7-ElementalHeroNos 2500/2000 = ?
+8-FusEfe-ElementalHeroShiningFlareWingman 2500/1200 = ?
+6-FusEfe-ElementalHeroThunderGiant 2400/1500 = Requirements
+6-FusEfe-ElementalHeroFlameWingman 2100/1200 = Requirements
+6-FusEfe-ElementalHeroRampartBlaster 2000/2500 = Requirements
+4-ElementalHeroSparkman 1600/1400 = Requirements
+4-Efe-ElementalHeroOcean 1500/1200 = ?
+3-ElementalHeroBurstinatrix 1200/800 = Requirements
+3-ElementalHeroAvian 1000/1000 = Requirements
+4-Efe-BeastkingOfTheSwamps 1000/1100 (MaterialFusão) = Scarlet
+4-ElementalHeroClayman 800/2000 = Requirements
+3-Efe-Wroughtweiler 800/1200 (Reviver) = ?
+3-Efe-KingOfTheSwamp 500/110 (MaterialFusão) = Eternal
+MagRpd-DeFusion = Ultimate
+Mag-FusionSage = Established
+Mag-Polymerization = Established
+Mag-ReinforcementOfTheArmy (Buscador) = Requirements
+MagCampo-Skyscraper = Requirements
+MagCampo-Skyscraper2 = ?
+Mag-Terraforming = Machines
+Mag-TheWarriorReturningAlive (Reviver) = Confusion
+Arm-HeroSignal = Requirements
+
+ExodiaNecross:
+5 partes do Exodia
+4-Efe-ExodiaNecross 1800/0 Mago
+4-Efe-EmissaryOfTheAfterlife 1600/600 Demônio = não achei
+4-Efe-MysticTomato 1400/1100
+3-Efe-Sangan 1000/600
+3-Efe-JarroCibernético 900/900 = banido
+2-Efe-MorphingJar 700/600
+1-Efe-MagicianOfFaith 300/400 = banido
+Mag-ContractWithExodia
+Mag-DifferentDimension
+Mag-FoolishBurial
+Mag-HeavyStorm
+Mag-LightningVortex
+Mag-MonsterReincarnation
+Mag-PotOfAvarice
+Mag-PotOfGreed = banido
+MagCampo-MysticPlasmaZone
+MagEqp-PrematureBurial
+Arm-RaigekiBreak
+ArmCtn-CallOfTheHaunted
+
+Fada:
+4-DunamesDarkWitch 1800/1050 = Requirements
+
+Fiend:
+8-Efe-GrinderGolem 3000/300
+4-WhiptailCrow 1650/1600 = Confusion
+
+Final:
+MagCtn-SpiritMessageL
+MagCtn-SpiritMessageN
+
+Fogo:
+MagCampo-MoltenDestruction = Summoning
+
+FortuneLady:
+1-Efe-FortuneLadyLight ?/?
+
+Gemini:
+8-SynEffe-BlackBrutdrago 3000/2600
+
+Graveyard / Cemitério:
+1-Efe-ChaosNecromancer 0/0
+
+GuardiãoDoPortão:
+11-Efe-GateGuardian 3750/3400 = Summoning
+
+Insect:
+2-BasicInsect 500/700 = Shadow
+2-Efe-LarvaeMoth 500/400 = Powerful
+
+Koala:
+9-Fus-MasterOfOz 4200/3700
+7-BigKoala 2700/2000 = Sword
+
+Light:
+MagCampo-LuminousSpark = Ultimate
+
+Ojama:
+2-OjamaBlack 0/1000
+2-OjamaGreen 0/1000
+2-OjamaYellow 0/1000
+
+Normal:
+MagCtn-HeartOfTheUnderdog = Sword
+
+Reptile:
+4-WormDrake 1400/1500 = Thirst
+
+Ritual_MaskedBeast:
+MagRit-CurseOfTheMaskedBeast = Thirst
+
+Roid:
+12-FusEfe-BarbaroidTheUltimate 4000/4000
+
+-----------------------------------------------
+SixSamurai:
+5-SinEfe-LegendarySixSamuraiShiEn 2500/1400
+
+7-Efe-GreatShogunShien 2500/2400
+
+4-Efe-LegendarySixSamuraiKizan 1800/500
+4-Efe-TheSixSamuraiZanji 1800/1300
+4-Efe-LegendarySixSamuraiEnishi 1700/700
+4-Efe-TheSixSamurai_Irou 1700/1200
+3-Efe-LegendarySixSamurai_Shinai 1500/1500
+3-Efe-TheSixSamurai_Kamon 1500/1000
+3-Efe-MatazaTheZapper 1300/800
+3-Efe-TheSixSamurai_Yaichi 1300/800
+4-Efe-SasukeSamurai #4 1200/1200
+4-MasakiTheLegendarySword 1100/1100
+3-Efe-TheSixSamurai_Yariza 1000/500
+2-Efe-SasukeSamurai 500/800
+3-Efe-LegendarySixSamurai_Kageki 200/2000
+
+----------------------------------------------------
+Thunder:
+MagEqp-ElectroWhip = Poweful
+
+Toon:
+4-Efe-ToonCannonSoldier 1400/1300 = Gravekeepers
+4-Efe-ToonMermaid 1400/1500 = Toon
+Mag-ToonTableOfContents = Gravekeepers
+MagCtn-ToonWorld = Toon
+
+----------------------------------------
+Union:
+
+4-LâminaSombria 1800/1500
+3-Efe-DragãoNegroComoAzeviche 900/600
+
+----------------------------
+Warrior:
+5-Efe-SwampBattleguard 1800/1500 = Legend
+5-Efe-LavaBattleGuard 1550/1800 = Requirements
+3-Efe-MatazaTheZapper 1300/800 = Sword
+4-Efe-DDWarrior 1200/1000 = Scarlet
+3-Efe-BoostWarrior 300/200
+MagEqp-LegendarySword = Legend
+MagCtn-TheAForces = Confusion
+
+Water:
+1-Efe-TreebornFrog 100/100
+1-Efe-TADPOLE 0/0
+MagCampo-ALegendaryOcean = Toon
+Mag-Salvage (Reviver) = Messenger
+MagCampo-Umiiruka = Scarlet
+
+Wind:
+MagCampo-RisingAirCurrent = Summoning
+
+Zombie:
+MagCtn-CallOfTheMummy = War

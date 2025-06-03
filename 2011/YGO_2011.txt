@@ -1,0 +1,264 @@
+YGO2011:
+
+Deck:
+
+-------------------------------------
+CherryInmato (TomatoAlliance - 680):
+
+Lotar o campo
+Negar ativação de Monstro/Mag/Arm = 1 (Pollinosis)
+
+3-Efe-SeedOfFlame 1600/1200 x1
+3-Efe-Inmato 1400/800 x3
+4-Efe-MysticTomato 1400/1100 x3
+4-Efe-RevivalRose 1300/1300 x2
+2-Efe-Nettles 1200/400 x2
+2-Efe-CherryInmato 700/400 x3
+2-Efe-Horseytail 400/500 x1
+2-Efe-SnapDragon 300/100 x1
+1-Efe-EvilThorn 100/300 x3
+2-Efe-SweetCorn 0/0 x1
+
+Mag-FragranceStorm
+Mag-SeedOfDeception
+MagCtn-SeedCannon x2
+MagRpd-RagingMadPlants
+MagRpd-Twister
+
+Arm-DustTornado
+Arm-SinisterSeeds
+ArmResp-Pollinosis
+ 
+Combo:
+CherryInmato > CherryInmato + CherryInmato
+CherryInmato > Inmato + Inmato
+EvilThorn > EvilThorn + EvilThorn
+MysticTomato > MysticTomato > MysticTomato > Inmato
+
+Bônus:
+  E-M   E- -5  M- -
+5- -5 > M- -M > - - 
+M-E-    E- -F   - -E
+
+-------------------
+Hypnocorn (HipHypnocorn 680):
+Roubar monstro do Cemitério = 1 (Autonomous)
+
+9-Sin-NaturiaLeodrake 300/1800 x1
+7-SinEff-VolticBicorn 2500/2000 x1
+
+5-Efe-EgotisticaApe 1200/1200 x2
+
+4-Efe-SunlightUnicorn 1800/1000 x1
+4-Efe-VampireKoala 1800/1500 x1
+4-Efe-ChainDog 1600/1100 x2
+3-Efe-XSaberAirbellum 1600/200 x1
+3-Efe-GuardDog 1500/500 x1
+3-Efe-DDCrazyBeast 1400/1400 x1
+4-Efe-Hypnocorn 1400/600 x2
+4-Efe-BicornReem 800/1600 x2
+2-Efe-RykoLightswornHunter 200/100 x1
+2-Efe-SeaKoala 100/1600 x2
+2-Efe-UniHornedFamiliar 0/1000 x2
+
+Mag-Forest
+MagEqp-AutonomousActionUnit
+MagEqp-LuckyIronAxe x2
+MagRpd-MysticalSpaceTyphoo
+
+Arm-BattleInstinct x1
+ArmCtn-HowlOfTheWild x1
+
+Bônus:
+E-X-4   X-F-P   X-X-F
+P-D-X > A-X-4 > X-A-X
+F-4-B   A-X-4   B-X-P
+
+----------------------
+Moja:
+7-Efe-KingOfTheBeasts 2500/800 x1
+
+4-Efe-BeastStriker 1850/400 x1
+2-Efe-TreeOtter 1200/100 x1
+4-Efe-SuperNimbleMegaHamster 1100/1800 x1
+3-Efe-Hyena 1000/300 x3
+3-Efe-BubonicVerming 900/600 x3
+2-Efe-NimbleMusasabi 800/100 x2
+2-Efe-BladeRabbit 400/300 x1
+1-Efe-KeyMouse 100/100 x2
+1-Efe-Moja 100/100 x3
+2-Efe-SeaKoala 100/1600 x1
+
+Buscadores:
+Key (Deck) e Moja(Cemitério) = Level 3
+Combo:
+Moja > KingOfTheBeasts
+Hyena > Hyena + Hyena
+BubonicVermin > BubonicVermin > BubonicVermin
+
+Bônus:
+4-X-X   V-X-M
+X-X-X > X-X-X 
+X-X-F   X-4-X
+
+-------------------------
+SixSamurais:
+5-Efe-GrãoMestreDosSeisSamurais 2100/800 x2
+4-Efe-SeisSamuraisKizan 1800/500 x2
+4-Efe-SeisSamuraisZanji 1800/1300 
+4-Efe-SeisSamuraisIrou 1700/1200
+3-Efe-SeisSamuraisMizuho 1600/1000
+1-Efe-EscudeiroDeShein 300/700
+Mag-ReviverMonstro
+Mag-SinalDeFumaçaDeShien
+MagCtn-OsSeisSamuraisUnidos x2
+MagCtn-PortalDosSeis
+MagCtn-Solidariedade
+Arm-ForçaDoEspelho
+
+Combo:
+Kageki + Kagemusha = ShiEn
+Mizuho + Shinai 
+
+Página_1:
+Cherry Inmato = Início
+Hypocorn = Início
+Moja = Início
+NaturiaCherries = Início
+Wattmole = Início
+
+Página_2:
+Tiki Curse = Início
+Tender of the Laval = Capítulo_2
+Gishi Erial = Capítulo_2
+Genex Ally Axel = Capítulo_2
+Gem-Knight Prism A = Capítulo_2
+
+Página_3:
+Thunder Unicorn = Capítulo_2
+Wynnda Priestess = Capítulo_2
+Masked Hero Vapor = Capítulo_3
+King Tiger Wanghu = Capítulo_3
+Wightmare = Capítulo_3
+
+Página_4:
+Amazoness Queen = Capítulo_3
+Reptillianne Vaskii = Capítulo_3
+Great Maju Garzett = Capítulo_3
+Karakuri Steel Shogun = Capítulo_4
+Needle Burrower = Capítulo_4
+
+Página_5:
+Magical Merchant = Capítulo_4
+Legendary Jujitsu M = Capítulo_4
+Ronintoadin = Capítulo_4
+Vylon Omega = Capítulo_4
+Naturia Bamboo Sho = Capítulo_5
+
+Página_6:
+Wattchimera = Capítulo_5
+Fabled Ragin = Capítulo_5
+Worm Illidan = Capítulo_5
+Koaki Meiru Maximu = Capítulo_5
+Gravekeepers Vision = Capítulo_5
+
+Página_7:
+Herald of Perfection = Pós_Jogo
+Flamvell Baby = Pós_Jogo
+Scrap Twin Dragon = Pós_Jogo
+Eathbound Immortal = Pós_Jogo
+Steelswarm Caucast = Pós_Jogo
+
+Página_8:
+Deep Sea Diva = Pós_Jogo Modo_WC
+Master Hyperion = Vença 3x Tikki Curso ( Página_2 )
+Power Tool Dragon = Vença 3x Wynnda ( Página_3 )
+Stardust Dragon/Ass = Vença 3x Great Maju Garzette ( Página_4 )
+Dark Simorgh = Vença 3x Vylon Omega ( Página_5 )
+
+Página_9:
+Thunder King Rai-Oh = Vença 3x Gravekeepers Visionary 
+Bounfitul Artemis = Vencer 3x Deep Sea Diva
+Queen Angel of Ros = Vencer 3x Flamvell Baby
+Meklord Emperor Gra = Vencer Earthbond Immortal Ccapac
+Archlord Kristya = Vencer 3x Guardian Eatos
+
+Página_10:
+Evil hero Dark Gaia = 50 horas
+Guardian Eatos = 100 horas
+Thestalos the Firestorm = 50% Bônus
+Gladiator Beast Gyazarus = 10 vitórias consecutivas
+X-Saber Souza = Dano Máximo 10.000
+
+Página_11:
+Infernity Doom Drag = Vencer com Final Countdonw
+Junk Destroyer = Invocar Shooting Star Dragon
+Malefic Paradox Dra = Invocar Malefic Paradox Dragon
+Ehren Lightsworn M = Invocar Judgment Dragon
+Dragunity Arma Ley = Ter 666 invocações
+
+Página_12:
+Elemental Hero The Shining = Invocar Vylon Omega
+Red-Eyes Darkness = Invocar Red Nova Dragon
+Blackwing Zephyrus = Invocar Blackwing Silverwind
+Legendary Six Samurai = Invocar Gladiator Beast Heraklinos
+Machina Fortress = Invocar Odin Father of the Aesir
+
+-Turbo Duel
+ 
+01 The Little Swordsman of Aile - From the Start
+02 Dragon Manipulator - From the Start
+03 Steamroid - From the Start
+04 Psychic Commander - From the Start
+05 Naturia Dragonfly - From the Start
+06 Dokurorider - From the Start
+07 Mefist the Infernal General - From the Start
+08 Delta Tri - Clear Chapter 4
+09 Vylon Sigma - Clear Chapter 5
+10 Ally of Justice Searcher - Clear Story Mode
+11 Kasha - Beat [Mefist the Infernal General] 3 times
+12 Destiny Hero - Dasher - Beat [Delta Tri] 3 times
+13 Gaia Drake, the Universal Force - Beat [Vylon Sigma] 3 times
+14 Fossil Dyna Pachycephalo - Beat [Ally of Justice Searcher] 3 times
+15 Dragunity Knight - Gae Bulg - Have 200 Total Synchro Summons
+16 Formula Synchron - Have 100 Total Speed Spells Activations
+17 Earthbound Immortal Aslla piscu - Have 573 Total Special Summons
+18 Judgment Dragon - Get the "Max Speed Bonus"
+19 Machina Fortress - Summon [Machina Force]
+20 Malefic Stardust Dragon - Summon [Evigishki Soul Ogre]
+ 
+-Tag Duel 
+
+01 Harmonic Resonators - From the Start
+02 Shallow Eon Leaders - From the Start
+03 Comers & Goers - From the Start
+04 Dark Fighting Spirit - Clear Chapter 4
+05 Downy Duo - Clear Chapter 5
+06 Fool Around Get Hurt - Clear Story Mode
+07 Forbidding Fellows - Beat [Downy Duo] Team 3 times
+08 Burn Girls - Beat [Fool Around Get Hurt] Team 3 times
+09 100-Monster Parade - Have 200 Total Spell and Trap Activations
+10 Terrorizing Tyrants - Have 200 Total Single Duels
+11 Alien Meets Snake - Have 100 Total Tag Duels
+12 Stardust Battle - Have 50 Total Turbo Duels
+13 Samurai Twelve - Have 25 Total Tag Turbo Duels
+14 Girls-Only Duel - Summon [Five-Headed Dragon]
+15 Dark Sea Ritual - Win by attacking with [Skull Servant]
+16 Flash! Fusion! - Summon [Koa'ki Meiru Maximus]
+17 Sky Masters - Summon [Gaia Drake, the Universal Force]
+18 Dimension Walkers - Summon [Dragon Knight Draco-Equiste]
+19 Queen's Collection - Summon [Dragon Queen of Tragic Endings]
+20 Moon & Sun - Summon [Steelswarm Hercules]
+ 
+-Tag Turbo Duel 
+
+01 Riding Cycles - From the Start
+02 Sonic Sprint - From the Start
+03 Sort of Wild Charge - From the Start
+04 Food Chain Friends - Clear Chapter 4
+05 Down to the Sea - Clear Chapter 5
+06 We're on a Mission - Beat [Sonic Sprint] Team 3 times
+07 Underworld Cops - Beat [Food Chain Friends] Team 3 times
+08 Unified in Darkness - Beat [Down to the Sea] Team 3 times
+09 Hurricane Regiment - Summon [Ultimate Axon Kicker]
+10 You-Go! - Summon [Scrap Twin Dragon]
