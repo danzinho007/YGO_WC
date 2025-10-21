@@ -101,6 +101,24 @@ Bônus:
 X-X-X > X-X-X 
 X-X-F   X-4-X
 
+-----------------
+Naturia Cherries - Organic Cherries
+
+6Syn-NaturiaBarkion  2500/1800 x1
+7Syn-NaturiaLandoise 2350/1600 x1
+5Syn-NaturiaBeast (NegaMag) 2200/1700 x1
+
+4Efe-NaturiaStrawberry 1600/1200 x2
+4Efe-NaturiaCliff   1500/1000 x3
+3Efe-NaturiaRosewhip 400/1700 x2
+1Efe-NaturiaCherries 200/200  x3
+
+Mag-LeodrakesMane x2
+MagCtn-BurdenOfTheMighty x2
+
+Puzzle:
+Mon1-Mon2
+
 -------------------------
 SixSamurais:
 5-Efe-GrãoMestreDosSeisSamurais 2100/800 x2
