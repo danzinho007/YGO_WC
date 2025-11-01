@@ -1,0 +1,62 @@
+Duelo Tag
+
+Pinguin: Banir cartas que voltam pra mão
+
+5Efe-ChoqueByser 800/600 Demônio x2 !!!
+4Efe-SoldadoDoAbismo 1800/1300 Aqua
+4Efe-HiperCabeça 1500/1200 Dinossauro x2 !!!
+4-MoçaArqueira 1400/1500 Aqua x2 !!!
+4-Alforreca 1200/1500 Aqua x2 !!!
+4-KrakenDemônio 1200/1400
+3-Crocodilus 1100/1200 x2 !!!
+2-HeróiOscillo 1000/500 Trovão
+4Efe-PinguinPesadelo 900/1800 Agua x2 !!!
+3Efe-CavaleiroPinguim 900/800 x2 !!!
+4Efe-GolemSentinela 800/1800 !!!
+2Efe-SoldadoPinguim 750/500 !!!
+2Efe-HaneHane 450/500 Besta 
+2-Nuviano 200/600 !!!
+Mag-Espiritualismo
+Mag-RegressoAoInicio x2 !!!
+Mag-Salvamento ( Aqua ) x2 !!!
+MagCampo-UmOceanoLendário !!!
+MagCtn-CircuitoDegenerativo ( Devolve pra mão = ban )
+Arm-AparelhoDeEvacuação ( Devolve pra mão ) x2 !!!
+Arm-SoproDaAsa ( Descarta Volta pro topo )   
+ArmCtn-DesejosSolenes ( Vida )
+ArmCtn-VáEmboraPatife  !!!
+ArmResp-GoblinFora
+ArmResp-RetornaForçado !!!
+
+Táticas:
+1-Destrui Contínuas = x3 !!!
+
+---------------------------
+ServoCaveira
+
+3-DragãoZumbi 1600/0
+2-CabeloDeCobras 1500/1200
+3-ZumbiComArmadura 1500/0 x2
+2-PalhaçoZumbi 1350/0 x2
+4Efe-TartarugaPirâmide 1200/1400
+4Efe-CasteloDasIlusoes 920/1930 
+3Efe-DesLacooda 500/600
+3Efe-TorreDeOssos 400/1500 x2
+Mag-Fissura
+Mag-LivroDaVida
+Mag-MarteloMágico
+Mag-OlhoEsmagador x2
+MagEqp-QuedaDoMeteoro x2
+MagRpd-FlechaDestruidora 
+MagRpd-Tornado x2
+Arm-Waboku
+
+Duelos:
+1-Perdi
+2-Venci Turno 47
+3-Perdi
+4-Perdi
+5-Venci Turno 12
+6-Venci Turno 07
+7-Venci Turno 07
+8-Venci Turno 17
