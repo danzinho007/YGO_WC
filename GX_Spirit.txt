@@ -1,0 +1,23 @@
+GX Spirit Caller
+
+Brier
+Deck Beast
+
+4Efe-EnragedBattle 1700/1000 x2
+4-AlligatorsSword 1500/1200
+4-GazelleTheKing 1500/1200
+4Efe-MadSwordBeast 1400/1200
+2-Tyhone 1200/1400
+MagCtn-PoisonFangs
+MagEqp-FairyMeteorCrush
+ArmCtn-RobbinZombie
+
+-----------------
+Katou
+3-Wolf 1200/800
+4-Krokodilus 1100/1200
+4-TheStatue 1100/1400
+3-RyuKishin 1000/500 x2
+3-BattleWarrior 700/1000 x2
+1-SkullServant 300/200 x2
+1Efe-KingOfTheSkull ?/0 x2

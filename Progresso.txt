@@ -1,0 +1,19 @@
+YGO_WC_Progresso
+
+-YGO_WC2006
+Kuriboh
+
+-YGO_WC2007
+DarkRedEnchanter
+DesWombat
+EriaTheWaterCharmer
+FoxFire
+SnipeHunter
+WingedKuriboh
+
+-YGO_WC2008
+Pinguin
+ServoCaveira
+
+-YGO_WC2009
+OjamaAmarelo = Incompleto

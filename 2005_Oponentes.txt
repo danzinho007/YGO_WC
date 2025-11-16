@@ -1,0 +1,41 @@
+2006_Oponentes
+
+MeuDeck 01 (+10)
+4Efe-GoblinAttackForce 2300/0
+4Efe-ZombyraTheDark 2100/500
+4Efe-PantherWarrior 2000/1600
+4-7ColoredFish 1800/800
+4Efe-GearFriedTheIron 1800/1600
+4-HarpiesBrother 1800/600
+4-LaJinnTheMystical 1800/1000
+4-AxeRaider 1700/1150
+4-BattleOx 1700/1000
+4-DarkfireSoldier#1 1700/1150
+
+Menina
+
+7-BigKoala 2700/2000
+6-TwinHeadedFire 2200/1700
+5-30,000YearWhite 1260/2100
+4-Gagagigo 1850/1000
+4-MasterKyonshee 1750/1000 x2
+4-Kabazauls 1700/1500
+3-DragonZombie 1600/0 
+4-GranTikiElder 1500/800
+4-PaleBeast 1500/1200
+4-TheSnakeHair 1500/1200
+4-RedArcheryGirl 1400/1500
+4-WaterMagician 1400/1000
+3-BabyDragon 1200/700
+4-ThatWhichFeeds 1200/1000
+3-StuffedAnimal 1200/900
+3-AncientBrain 1000/700
+4-BattleFootball 1000/2100
+3-RockOgreGrotto#1 800/1200
+4-HumanoidSlime 800/200
+2Efe-PenguinSoldier 750/500
+2Efe-HaneHane 450/500
+Mag-CardDestruction
+Mag-GracefulCharity
+Arm-MagicJammer
+Arm-TrapHole

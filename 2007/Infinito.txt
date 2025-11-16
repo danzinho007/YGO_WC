@@ -1,0 +1,129 @@
+2007Sobrevivência
+
+Tentativa 0 = Perdi no Lv 1 (+20)
+Infinito 1 = Perdi no Lv 2 (+10)
+Infinito 2 = Perdi no Lv 3 Especial
+Infinito 3 = Perdi no Lv 4
+
+Lv 1
+
+DesWombato
+
+5Efe-CanguruDes 1500/1700
+3-PresaDePrata 1200/800	x2
+Mag-LibertaçãoDaNatureza x2
+
+Fogo da Raposa
+Chama Implacável 465
+
+4Efe-DragãoDaChamaSolar 1500/1000
+4Efe-ACoisaNaCratera 1000/1200
+2Efe-FogoDaRaposa 300/200
+2Efe-JigenBakudan 200/1000 x2
+Mag-TributoAosCondenados
+MagCtn-ContraExplosão
+Arm-JarOfGreed
+
+CaçadorEscondido
+Deck Las Vegas 520
+
+4Efe-SamuraiSasuke 1200/1200
+4Efe0Kyruel 1000/1700
+3Efe-DeusaDeWhim 950/700
+2-OjamaAmarelo 0/1000
+2-OjamaNegro 0/1000
+MagRpd-DadoGracioso
+Arm-DadoCaveira
+
+BruxoVermelhoNegro
+Nada pra Fazer 490
+
+6Efe-BruxoVermelhoNegro 1700/2200
+4Efe-ElfasGêmeasToon 1900/900
+4Efe-TrigreReiWanghu 1700/1000
+2Efe-UmGatoDoIIIOmen 500/300
+MagEqp-EnterroPrecoce
+Arm-ArmadilhaDoAlçapão
+Arm-ArmaduraSakuretsu
+Arm-TornadoDePó
+ArmCtn-ChamadoDosAssombrados
+ArmCtn-LuzDaIntervenção
+
+--------------------
+
+Lv 2
+
+Tualatin 
+Invocação Por Favor 715
+
+8Efe-Tualatin 2800/2500
+5Efe-CavaleiroCeleste 1900/1400
+4Efe-GrouSagrado 1600/400
+3Efe-CapitãoSaqueador 1200/400
+2Efe-MomongaÁgil 1000/100
+2Efe-GermeGiante 1000/100
+4Efe-CasteloDasIlusões 920/1930
+4Efe-MongeInvocador 800/1600
+Mag-PotOfAvarice
+MagEqp-CestusDeDagia
+MagRpd-TufãoEspacialMístico
+Arm-RuínaGeneralizada
+ArmCtn-ChamadoDosAssombrados
+
+Hiita Encantadora do Fogo
+Prato Quente 620
+
+4-InpachiEmChamas 1850/0
+3Efe-RapazDeBaseball 500/1000 x2
+MagRpd-ImpulsoPrecipitado
+Arm-AnelDaDestruição
+ArmCtn-ContraExplosão
+
+Besta do Mecanismo Antigo
+Conhecimento Antigo 730
+
+6Efe-BestaDoMecanismo 2000/2000
+5Efe-EngenheiroDoMecanismo 1500/1500 x2
+4Efe-Gigantes 1900/1300
+4Efe-ChironOMago 1800/1000
+4Efe-RatoGigante 1400/1450 x2
+4Efe-SoldadoDoMecanismo 1300/1300
+ArmCtn-ChamadoDosAssombrados
+
+-------------------------
+Lv 3
+
+DragãoInfernal
+Precisa de Habilidade? 905
+
+4Efe-ForçaDeAtaque 2300/0
+4Efe-OrcGigante 2200/0
+Mag-EsmagandoOChão
+Arm-BuracoArmadilhaSemFundo
+Arm-VirusDevastadorDeDecks
+ArmCtn-DrenarHabilidades
+
+-------------------------
+Lv 4
+
+4°Chama Negra LV8
+Ainda em Chamas 1125
+
+8Efe-HorusDragãoLV8 3000/1800
+6Efe-HorusDragãoLV6 2300/1600
+4Efe-HorusDragãoLV4 1600/1000 x2
+Mag-SubidaDeNível
+MagEqp-EnterroPrecoce
+MagRpd-OMeuCorpo
+ArmCtn-ChamadoDosAssombrados
+
+------------------------
+Takeshi
+Gosta de Insetos? 1100
+
+4-CavaleiroInseto 1900/1500
+4Efe-RatoGigante 1400/1450 x2
+MagEqp-EnterroPrecoce
+MagEqp-ExplosãoDoBigBang
+MagEqp-Megamorph x2	
+
